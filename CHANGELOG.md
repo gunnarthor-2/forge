@@ -2,6 +2,7 @@
 
 | Version | Date | What changed |
 |---|---|---|
+| **1.3.1** | 13 Nov 2026 | DM's ruling: the characters are mostly strangers at the start; two friends joining together may build their characters with a shared past, kept the same on both sides. |
 | **1.3** | 13 Nov 2026 | **The band** (`table/the-band.md`): the characters already built, with short stories and the **motifs already taken**, so each new character makes the party wider, not a twin. The Forge reads it before the opening (a pasted newer card wins), steers away from twin stories, and never shares another player's details. The hand-over now also includes the **player guide** and a **band update** draft. Seat 1, Ugo Fantozzi, added. |
 | **1.2** | 13 Nov 2026 | From the first real build (seat 1): **when a player asks the Forge to choose**, it offers three options, the player picks, and the DM note records that the options were the Forge's. Also a tip for reading Archives of Nethys: list pages often fetch empty, so search for each entry by name. |
 | **1.1.4** | 13 Nov 2026 | The Forge says plainly that it can't save anything to GitHub (the repository is public and holds no player's character). It hands everything over in the chat for the DM to pass to the campaign's scribe, and never claims to have saved. |

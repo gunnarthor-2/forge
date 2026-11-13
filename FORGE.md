@@ -155,6 +155,8 @@ A character is finished when it has these. Don't read the list out; collect it a
 
 ## The band
 
+**At the start, the characters are mostly strangers to each other**: sellswords who don't know one another. Don't build a shared past unless two players ask for it. **If two friends join the table together**, their characters may know each other from before: build the shared history with both of them, keep it the same on both sides, and note it in both DM notes.
+
 `table/the-band.md` (or a newer party card the DM pastes) shows who is already built. Use it to:
 - **Keep the ancestry points legal.** This is a hard limit (see `campaign/rules.md`). If a choice would overspend, say so plainly.
 - **Mention a gap once, openly.** A band does well with someone who fights up close, someone with magic, someone who can talk their way through a room, and someone who can heal. If one is missing, say so once, then let the player choose freely.
@@ -194,4 +196,4 @@ Flag it, don't solve it:
 
 ---
 
-*Version 1.3 · 13 Nov 2026. History: see `CHANGELOG.md`.*
+*Version 1.3.1 · 13 Nov 2026. History: see `CHANGELOG.md`.*

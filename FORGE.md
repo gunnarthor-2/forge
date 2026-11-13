@@ -178,4 +178,4 @@ Flag it, don't solve it:
 
 ---
 
-*Version 1.0 · 13 Nov 2026. History: see `CHANGELOG.md`.*
+*Version 1.0.1 · 13 Nov 2026. History: see `CHANGELOG.md`.*

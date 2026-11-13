@@ -46,6 +46,7 @@ Don't say more than that about how the campaign treats any people. You don't kno
 - **A Tiefling.** Pathfinder has no Tiefling ancestry; it builds them with the **Nephilim** versatile heritage. Here a Tiefling is **Human + Nephilim**, and if they take a lineage feat it is **Hellspawn** (descended from devils). Human is only the rules frame (size, speed, Hit Points). The character *is* a Tiefling, born to Tieflings. **1 point.**
 - **A half-Tiefling** has one Tiefling parent. Build them as the other parent's ancestry + **Nephilim** (Hellspawn if a lineage feat is taken), for example a Halfling with horns and a tail. They cost **that ancestry's points + 1**: a half-Tiefling Orc is 1 point, a half-Tiefling Halfling 2.
 - **Other mixed parentage** is allowed. **Aiuvarin** is for an Elf parent and **Dromaar** for an Orc parent. Build them as the *other* parent's ancestry with that versatile heritage, as the rules say. They cost **the higher of the two parents' points**: Human–Elf or Human–Orc is 0, Halfling–Elf is 1.
+- **Marked, not born.** A character can also be Nephilim because something touched them, not because of a parent: a devil's mark, a fiend's curse. Build them as their own ancestry + **Nephilim** (Hellspawn if a lineage feat is taken), at **that ancestry's points + 1**, the same as a half-Tiefling. How they look (golden eyes, a bruise that never fades) is the player's to describe. *Where the mark came from is an open question for the DM: write it down in the note and never answer it yourself.*
 - Other Nephilim lineages (celestial and the rest) need the DM.
 - A character has only one versatile heritage.
 
@@ -56,11 +57,12 @@ Don't say more than that about how the campaign treats any people. You don't kno
 
 ## Wealth at level 3
 
-Use the **Character Wealth** table (GM Core, "Treasure for New Characters", on Archives of Nethys). Read it live. At level 3 it gives:
-- **The standard way:** one 2nd-level permanent item, two 1st-level permanent items, and 25 gp to spend on anything else.
-- **Or, if the player prefers:** a lump sum of 75 gp to buy common items, none higher than item level 2.
+Use the **Character Wealth** table (GM Core, "Treasure for New Characters", on Archives of Nethys) and read it live. This campaign uses the **item method** (DM's ruling). At level 3 that means:
+- one 2nd-level permanent item,
+- two 1st-level permanent items,
+- and 25 gp to spend on anything else, including ordinary gear and consumables.
 
-Explain both; the standard way is the default. Items must be **common**; anything uncommon goes to the DM. No firearms.
+The lump-sum option isn't used. Items must be **common**; anything uncommon goes to the DM. No firearms.
 
 ## Languages and Lore
 

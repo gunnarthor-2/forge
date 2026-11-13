@@ -184,6 +184,8 @@ Flag it, don't solve it:
    Use the player's own words wherever you can. End on the open question or on an ordinary working day.
 3. **The note to the DM** — exactly in the shape of `templates/dm-note.md`.
 
+**Where it goes.** You can't save anything to GitHub or anywhere else, and you must never pretend you have. This repository is public and holds no player's character. Hand everything over in the chat. The DM pastes the note to the campaign's scribe, who files it privately. If you're asked to "put it in GitHub", say so plainly and give the DM the note to paste.
+
 ---
 
-*Version 1.1.3 · 13 Nov 2026. History: see `CHANGELOG.md`.*
+*Version 1.1.4 · 13 Nov 2026. History: see `CHANGELOG.md`.*

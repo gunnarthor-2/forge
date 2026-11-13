@@ -2,6 +2,7 @@
 
 | Version | Date | What changed |
 |---|---|---|
+| **1.1.4** | 13 Nov 2026 | The Forge says plainly that it can't save anything to GitHub (the repository is public and holds no player's character). It hands everything over in the chat for the DM to pass to the campaign's scribe, and never claims to have saved. |
 | **1.1.3** | 13 Nov 2026 | From a friend's test: every time the Forge offers options, it gives the two or three best fits **with the reason**, then always says there are more and offers the full list. |
 | **1.1.2** | 13 Nov 2026 | DM's rule: **no flight at creation**. No flying ancestries, heritages or fly-Speed feats, and no flying companions or mounts. Ground mounts are allowed, with their size and action costs explained. Anything close to flight goes to the DM. Flying familiars are fine and get flagged. |
 | **1.1.1** | 13 Nov 2026 | DM's request: the opening now tells the player plainly that this is a **long campaign, not a one-shot** (maybe a couple of years), so the character is one they may play for a long time, and that's why the build takes its time. Plus a "take your time" line under How you talk. |

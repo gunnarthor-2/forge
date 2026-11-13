@@ -25,6 +25,7 @@ If the chat can't fetch the files, attach `FORGE.md` and the files it lists inst
 | `campaign/rules.md` | The campaign's character rules: ancestries and points, what's allowed, wealth |
 | `campaign/sparks.md` | Twelve plain working lives for a blank page |
 | `campaign/hooks.md` | Twelve hook seeds: motives that drive a character and give the DM something to write from |
+| `table/the-band.md` | The characters already built: party card, short stories, motifs taken |
 | `templates/party-card.md` | The DM's card for the band so far |
 | `templates/dm-note.md` | The note the Forge writes for the DM |
 | `examples/portrait-example.md` | The shape of a finished portrait |

@@ -5,8 +5,8 @@
 ```
 PARTY CARD — [table name] · seats: [4 or 5] · ancestry points: [one per seat] total
 
-Seat | Player | Character | Ancestry (tier · points) | Class | Role in the band   | Seed taken
-1    | …      | …         | … (0 · 0)                | …     | e.g. close fighter | e.g. 7 · The March
+Seat | Player | Character | Ancestry (tier · points) | Class | Role in the band   | Hook seed taken
+1    | …      | …         | … (0 · 0)                | …     | e.g. close fighter | e.g. 3 · The Cure
 2    | …      | …         | …                        | …     | …                  | …
 3    | (open) |           |                          |       |                    |
 4    | (open) |           |                          |       |                    |
@@ -15,7 +15,7 @@ Seat | Player | Character | Ancestry (tier · points) | Class | Role in the band
 Points used: [n] of [seats] · left: [n]
 Roles covered: [close fighting · magic · talking · healing · scouting · ranged · …]
 Roles missing: […]
-Seeds taken at this table: [numbers]
+Hook seeds taken at this table: [numbers]
 DM notes for the Forge: e.g. "Seat 3 is brand new — go slowly."
 ```
 

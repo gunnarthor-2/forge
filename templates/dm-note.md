@@ -9,15 +9,21 @@ Ancestry / heritage / tier & points: …
 Class (and level-1 choices) / role in the band: …
 Background: …
 Started from: [the player's own picture / a spark: name / nothing yet]
-Seed taken: [number and name, or "none"]
 
 Portrait: [the full portrait]
 
-The eight:
-  · The reason:     [what they fight for, one line]
-  · Named people:   [name — who they are to the character — alive / dead / unknown] (mark the ally)
+THE HOOKS (what you can write from: names, places, when, alive or not)
+  · Drives them:      [what they want to achieve or gain, and why]
+  · At stake:         [who or what they still have and fear to lose]
+  · Open wound:       [who or what is lost, missing, cursed or taken, with no ending]
+  · Items:            [each object with its story; mark the one people notice]
+  · Connections:
+      People:         [name — who they are to the character — alive / dead / unknown] (mark the ally)
+      Peoples, gods, devils, beasts: [what they feel, and why]
+  · Hook seed taken:  [number and name, or "none"]
+
+THE PERSON
   · The scene:      …
-  · The mark:       …
   · The count:      …
   · The line:       …
   · The crack:      …

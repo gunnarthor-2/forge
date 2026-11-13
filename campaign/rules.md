@@ -21,6 +21,7 @@ Kind, or at least neutral; never villains (FORGE.md, rule 6). In the rules this 
 
 - **Firearms**: no Gunslinger, no firearm path for the Inventor, no firearms in gear.
 - **Satyr**: not available.
+- **No flight.** No character starts with any way to fly: no flying ancestry or heritage, no feat that grants a fly Speed, and **no flying companion or mount** (griffon, hippogriff, giant wasp, giant dragonfly, bats and birds that could carry them, and the like). Ground mounts are allowed. A mount must be at least one size larger than its rider, and riding costs the rider actions; explain that before they choose. Anything close to flight (gliding, slowing a fall, wings for show) goes to the DM. A **familiar** that flies is fine, because it can't carry anyone, but mention it in the DM note.
 - **Versatile heritages** other than the three under "Tieflings and mixed parentage" below. Changeling, Dhampir, Duskwalker, the elemental ones and the rest are not offered.
 - **Classes that need the DM first:** Exemplar (Rare), and anything Archives of Nethys marks as a playtest.
 

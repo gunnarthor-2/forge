@@ -32,6 +32,6 @@ THE PERSON
 Also said: [what they love · what they always do when trouble starts · a belief the world will test · anything else the player lit up at]
 Not wanted in their story (if said): …
 Casts magic? [no / yes: tradition and kind]
-Flags for the DM: [anything not on the list, Uncommon/Rare requests, Legacy content, Large size, rules I couldn't confirm, world questions the player asked]
+Flags for the DM: [anything not on the list, a companion or mount (what it is, its size), a flying familiar, Uncommon/Rare requests, Legacy content, Large size, rules I couldn't confirm, world questions the player asked]
 Party card update: [one line for the card]
 ```

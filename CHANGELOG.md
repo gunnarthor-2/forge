@@ -2,6 +2,7 @@
 
 | Version | Date | What changed |
 |---|---|---|
+| **1.2** | 13 Nov 2026 | From the first real build (seat 1): **when a player asks the Forge to choose**, it offers three options, the player picks, and the DM note records that the options were the Forge's. Also a tip for reading Archives of Nethys: list pages often fetch empty, so search for each entry by name. |
 | **1.1.4** | 13 Nov 2026 | The Forge says plainly that it can't save anything to GitHub (the repository is public and holds no player's character). It hands everything over in the chat for the DM to pass to the campaign's scribe, and never claims to have saved. |
 | **1.1.3** | 13 Nov 2026 | From a friend's test: every time the Forge offers options, it gives the two or three best fits **with the reason**, then always says there are more and offers the full list. |
 | **1.1.2** | 13 Nov 2026 | DM's rule: **no flight at creation**. No flying ancestries, heritages or fly-Speed feats, and no flying companions or mounts. Ground mounts are allowed, with their size and action costs explained. Anything close to flight goes to the DM. Flying familiars are fine and get flagged. |

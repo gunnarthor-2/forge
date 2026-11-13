@@ -29,6 +29,7 @@ THE PERSON
   · The crack:      …
   · Open question:  [left unanswered: the DM's to answer]
 
+Chosen from my options: [anything the player asked me to choose, the options I gave, and what they picked]
 Also said: [what they love · what they always do when trouble starts · a belief the world will test · anything else the player lit up at]
 Not wanted in their story (if said): …
 Casts magic? [no / yes: tradition and kind]

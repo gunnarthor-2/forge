@@ -62,4 +62,4 @@
 
 ## Step 3 · Offer, don't list
 
-Pick two or three. For each, say in two or three sentences **what they'd do on a turn** and **one honest trade-off**. Recommend one if you can, and say why. If the player is completely new and torn, the **Fighter**, **Ranger** and **Champion** are the easiest to learn; casters have more to track.
+Pick two or three. For each, say in two or three sentences **what they'd do on a turn** and **one honest trade-off**. Recommend one if you can, and say why. Then say there are more classes and offer the full list (Step 2 above, minus anything not allowed). If the player is completely new and torn, the **Fighter**, **Ranger** and **Champion** are the easiest to learn; casters have more to track.
